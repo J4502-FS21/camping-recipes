@@ -83,3 +83,52 @@ a:hover {
 .home:hover {
   color: black;
 }
+footer {
+  font-family: 'Patrick Hand', sans-serif;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: #264027;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 699px) {
+  h1 {
+    font-size: 2em;
+  }
+}
+
+
+@media screen and (max-width: 599px) {
+
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    margin: 10px;
+  }
+
+  h3 {
+    margin: 10px;
+  }
+
+  p {
+    margin: 5px;
+  }
+
+  #menu_trigger {
+    display: block;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    border: none;
+    width: 30px;
+    height: 30px;
+  }
+
+  #menu_nav {
+    display: none;
+    flex-direction: column;
+  }
