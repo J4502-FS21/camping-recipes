@@ -67,7 +67,7 @@ p {
 .firehead {
   width: 279px
   height: 230px;
-  opacity: 70%;
+  opacity: 50%;
 }
 
 a {
@@ -82,7 +82,7 @@ a:hover {
 }
 
 .home:hover {
-  color: black;
+  color: #957968;
 }
 footer {
   font-family: 'Patrick Hand', sans-serif;
