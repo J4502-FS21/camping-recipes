@@ -70,6 +70,39 @@ p {
   opacity: 25%;
 }
 
+#barebonesrecipetitle {
+  text-align: center;
+  display: block;
+}
+
+.barebonesparagraph {
+  display: block;
+  padding-left:20px;
+  padding-right: 20px;
+}
+
+#afeastrecipetitle {
+  text-align: center;
+  display: block;
+}
+
+.afeastparagraph {
+  display: block;
+  padding-left:20px;
+  padding-right: 20px;
+}
+
+#justenoughrecipetitle {
+  text-align: center;
+  display: block;
+}
+
+.justenoughparagraph {
+  display: block;
+  padding-left:20px;
+  padding-right: 20px;
+}
+
 a {
   text-decoration: none;
   font-family: 'Patrick Hand', sans-serif;
