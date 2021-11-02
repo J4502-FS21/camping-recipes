@@ -93,14 +93,14 @@ footer {
   font-weight: bold;
 }
 
-@media screen and (max-width: 699px) {
+@media screen and (max-width: 299px) {
   h1 {
     font-size: 2em;
   }
 }
 
 
-@media screen and (max-width: 599px) {
+@media screen and (max-width: 399px) {
 
   h1 {
     font-size: 2em;
