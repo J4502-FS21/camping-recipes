@@ -103,6 +103,21 @@ p {
   padding-right: 20px;
 }
 
+.info-container{
+   display: inline-block;
+   vertical-align: top;
+   padding: 20px;
+   -moz-box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+.info-container p{
+    padding: 20px;
+    margin: 10px;
+    text-align:
+}
+
 a {
   text-decoration: none;
   font-family: 'Patrick Hand', sans-serif;
