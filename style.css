@@ -65,7 +65,8 @@ p {
   transform: translate(-50%, -50%);
 }
 .firehead {
-  width: 50%;
+  width: 279px
+  height: 230;
   opacity: 70%;
 }
 
