@@ -53,3 +53,33 @@ p {
 #menu_trigger {
   display: none;
 }
+.title {
+  position: relative;
+  text-align: center;
+}
+
+.head1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.firehead {
+  width: 100%;
+  opacity: 70%;
+}
+
+a {
+  text-decoration: none;
+  font-family: 'Patrick Hand', sans-serif;
+  font-size: 1.25em;
+  color: black;
+}
+
+a:hover {
+  color: #EEE5E9;
+}
+
+.home:hover {
+  color: black;
+}
