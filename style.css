@@ -122,11 +122,11 @@ a {
   text-decoration: none;
   font-family: 'Patrick Hand', sans-serif;
   font-size: 2em;
-  color: #957964;
+  color: #EEE5E9;
 }
 
 a:hover {
-  color: #EEE5E9;
+  color: #957968;
 }
 
 .home:hover {
