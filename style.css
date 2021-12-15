@@ -47,7 +47,7 @@ p {
   text-align: left;
 }
 #menu_nav {
-  background-color: #264027;
+  background-color: #0D170E;
   margin: 0px;
   padding: 15px;
   display: flex;
@@ -128,15 +128,15 @@ a {
   text-decoration: none;
   font-family: 'Patrick Hand', sans-serif;
   font-size: 2em;
-  color: #EEE5E9;
+  color: #957968;
 }
 
 a:hover {
-  color: #957968;
+  color: #EEE5E9;
 }
 
 .home:hover {
-  color: #957968;
+  color: #EEE5E9;
 }
 footer {
   font-family: 'Patrick Hand', sans-serif;
@@ -144,7 +144,7 @@ footer {
   margin-top: 40px;
   margin-bottom: 20px;
   padding: 10px;
-  background-color: #264027;
+  background-color: #957968;
   font-weight: bold;
 }
 
