@@ -130,6 +130,9 @@ a {
   font-size: 2em;
   color: #957968;
 }
+a:hover {
+  color: #EEE5E9;
+}
 
 }
 footer {
